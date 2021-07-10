@@ -59,6 +59,7 @@ cmake-build-*
 .DS_Store
 xcuserdata
 *.xcworkspace
+xcshareddata/
 
 # for Visual C++
 .vs
